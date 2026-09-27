@@ -65,7 +65,7 @@ This repository tracks top-tier **SaaS platforms** and **open-source tools** for
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (descending)*
+*Sorted by GitHub Stars_Count (descending)*
 
 - **[osquery](https://github.com/osquery/osquery)** [![osquery Stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers)  
   *Exposes operating system attributes as high-performance relational SQL tables across Windows, Linux, and macOS for real-time live querying and forensic triage.* 💻 SQL Triage
